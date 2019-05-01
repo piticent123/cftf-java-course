@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="StudySettings">
+    <StudyTaskManager>
+      <option name="VERSION" value="14" />
+      <option name="myUserTests">
+        <map />
+      </option>
+      <option name="course">
+        <EduCourse>
+          <option name="authors">
+            <list>
+              <StepikUserInfo>
+                <option name="firstName" value="Jordan" />
+                <option name="id" value="-1" />
+                <option name="lastName" value="Pitlor" />
+              </StepikUserInfo>
+            </list>
+          </option>
+          <option name="compatible" value="true" />
+          <option name="courseMode" value="Course Creator" />
+          <option name="createDate" value="0" />
+          <option name="customPresentableName" />
+          <option name="description" value="A course in Java for CFTF campers" />
+          <option name="environment" value="" />
+          <option name="fromZip" value="false" />
+          <option name="id" value="0" />
+          <option name="index" value="-1" />
+          <option name="instructors">
+            <list />
+          </option>
+          <option name="language" value="JAVA" />
+          <option name="languageCode" value="en" />
+          <option name="name" value="CFTF Java Course" />
+          <option name="public" value="false" />
+          <option name="sectionIds">
+            <list />
+          </option>
+          <option name="stepikChangeStatus" value="Content changed" />
+          <option name="type" value="pycharm11 JAVA" />
+          <option name="updateDate" value="0" />
+          <option name="items">
+            <list>
+              <Section>
+                <option name="courseId" value="0" />
+                <option name="customPresentableName" />
+                <option name="id" value="0" />
+                <option name="index" value="1" />
+                <option name="name" value="Beginner" />
+                <option name="position" value="0" />
+                <option name="stepikChangeStatus" value="Content changed" />
+                <option name="updateDate" value="0" />
+                <option name="items">
+                  <list>
+                    <Lesson>
+                      <option name="customPresentableName" />
+                      <option name="id" value="0" />
+                      <option name="index" value="1" />
+                      <option name="name" value="Hello World" />
+                      <option name="stepikChangeStatus" value="Up to date" />
+                      <option name="updateDate" value="0" />
+                      <option name="unitId" value="0" />
+                      <option name="items">
+                        <list />
+                      </option>
+                    </Lesson>
+                    <Lesson>
+                      <option name="customPresentableName" />
+                      <option name="id" value="0" />
+                      <option name="index" value="2" />
+                      <option name="name" value="Variables" />
+                      <option name="stepikChangeStatus" value="Up to date" />
+                      <option name="updateDate" value="0" />
+                      <option name="unitId" value="0" />
+                      <option name="items">
+                        <list />
+                      </option>
+                    </Lesson>
+                    <Lesson>
+                      <option name="customPresentableName" />
+                      <option name="id" value="0" />
+                      <option name="index" value="3" />
+                      <option name="name" value="Basic Variable Types" />
+                      <option name="stepikChangeStatus" value="Up to date" />
+                      <option name="updateDate" value="0" />
+                      <option name="unitId" value="0" />
+                      <option name="items">
+                        <list />
+                      </option>
+                    </Lesson>
+                    <Lesson>
+                      <option name="customPresentableName" />
+                      <option name="id" value="0" />
+                      <option name="index" value="3" />
+                      <option name="name" value="If" />
+                      <option name="stepikChangeStatus" value="Up to date" />
+                      <option name="updateDate" value="0" />
+                      <option name="unitId" value="0" />
+                      <option name="items">
+                        <list />
+                      </option>
+                    </Lesson>
+                    <Lesson>
+                      <option name="customPresentableName" />
+                      <option name="id" value="0" />
+                      <option name="index" value="4" />
+                      <option name="name" value="If Statements" />
+                      <option name="stepikChangeStatus" value="Up to date" />
+                      <option name="updateDate" value="0" />
+                      <option name="unitId" value="0" />
+                      <option name="items">
+                        <list />
+                      </option>
+                    </Lesson>
+                    <Lesson>
+                      <option name="customPresentableName" />
+                      <option name="id" value="0" />
+                      <option name="index" value="6" />
+                      <option name="name" value="Loops" />
+                      <option name="stepikChangeStatus" value="Up to date" />
+                      <option name="updateDate" value="0" />
+                      <option name="unitId" value="0" />
+                      <option name="items">
+                        <list />
+                      </option>
+                    </Lesson>
+                    <Lesson>
+                      <option name="customPresentableName" />
+                      <option name="id" value="0" />
+                      <option name="index" value="7" />
+                      <option name="name" value="Objects" />
+                      <option name="stepikChangeStatus" value="Up to date" />
+                      <option name="updateDate" value="0" />
+                      <option name="unitId" value="0" />
+                      <option name="items">
+                        <list />
+                      </option>
+                    </Lesson>
+                  </list>
+                </option>
+              </Section>
+              <Section>
+                <option name="courseId" value="0" />
+                <option name="customPresentableName" />
+                <option name="id" value="0" />
+                <option name="index" value="2" />
+                <option name="name" value="Intermediate" />
+                <option name="position" value="0" />
+                <option name="stepikChangeStatus" value="Content changed" />
+                <option name="updateDate" value="0" />
+                <option name="items">
+                  <list>
+                    <Lesson>
+                      <option name="customPresentableName" />
+                      <option name="id" value="0" />
+                      <option name="index" value="1" />
+                      <option name="name" value="Switch Statements" />
+                      <option name="stepikChangeStatus" value="Up to date" />
+                      <option name="updateDate" value="0" />
+                      <option name="unitId" value="0" />
+                      <option name="items">
+                        <list />
+                      </option>
+                    </Lesson>
+                    <Lesson>
+                      <option name="customPresentableName" />
+                      <option name="id" value="0" />
+                      <option name="index" value="2" />
+                      <option name="name" value="Abstract Classes" />
+                      <option name="stepikChangeStatus" value="Up to date" />
+                      <option name="updateDate" value="0" />
+                      <option name="unitId" value="0" />
+                      <option name="items">
+                        <list />
+                      </option>
+                    </Lesson>
+                    <Lesson>
+                      <option name="customPresentableName" />
+                      <option name="id" value="0" />
+                      <option name="index" value="3" />
+                      <option name="name" value="Interfaces" />
+                      <option name="stepikChangeStatus" value="Up to date" />
+                      <option name="updateDate" value="0" />
+                      <option name="unitId" value="0" />
+                      <option name="items">
+                        <list />
+                      </option>
+                    </Lesson>
+                    <Lesson>
+                      <option name="customPresentableName" />
+                      <option name="id" value="0" />
+                      <option name="index" value="4" />
+                      <option name="name" value="Enumerations" />
+                      <option name="stepikChangeStatus" value="Up to date" />
+                      <option name="updateDate" value="0" />
+                      <option name="unitId" value="0" />
+                      <option name="items">
+                        <list />
+                      </option>
+                    </Lesson>
+                  </list>
+                </option>
+              </Section>
+              <Section>
+                <option name="courseId" value="0" />
+                <option name="customPresentableName" />
+                <option name="id" value="0" />
+                <option name="index" value="3" />
+                <option name="name" value="Advanced" />
+                <option name="position" value="0" />
+                <option name="stepikChangeStatus" value="Content changed" />
+                <option name="updateDate" value="0" />
+                <option name="items">
+                  <list>
+                    <Lesson>
+                      <option name="customPresentableName" />
+                      <option name="id" value="0" />
+                      <option name="index" value="1" />
+                      <option name="name" value="The Terminal" />
+                      <option name="stepikChangeStatus" value="Up to date" />
+                      <option name="updateDate" value="0" />
+                      <option name="unitId" value="0" />
+                      <option name="items">
+                        <list />
+                      </option>
+                    </Lesson>
+                    <Lesson>
+                      <option name="customPresentableName" />
+                      <option name="id" value="0" />
+                      <option name="index" value="2" />
+                      <option name="name" value="Build Systems" />
+                      <option name="stepikChangeStatus" value="Up to date" />
+                      <option name="updateDate" value="0" />
+                      <option name="unitId" value="0" />
+                      <option name="items">
+                        <list />
+                      </option>
+                    </Lesson>
+                    <Lesson>
+                      <option name="customPresentableName" />
+                      <option name="id" value="0" />
+                      <option name="index" value="3" />
+                      <option name="name" value="Version Control" />
+                      <option name="stepikChangeStatus" value="Up to date" />
+                      <option name="updateDate" value="0" />
+                      <option name="unitId" value="0" />
+                      <option name="items">
+                        <list />
+                      </option>
+                    </Lesson>
+                    <Lesson>
+                      <option name="customPresentableName" />
+                      <option name="id" value="0" />
+                      <option name="index" value="4" />
+                      <option name="name" value="JClasses" />
+                      <option name="stepikChangeStatus" value="Up to date" />
+                      <option name="updateDate" value="0" />
+                      <option name="unitId" value="0" />
+                      <option name="items">
+                        <list />
+                      </option>
+                    </Lesson>
+                    <Lesson>
+                      <option name="customPresentableName" />
+                      <option name="id" value="0" />
+                      <option name="index" value="5" />
+                      <option name="name" value="Android" />
+                      <option name="stepikChangeStatus" value="Up to date" />
+                      <option name="updateDate" value="0" />
+                      <option name="unitId" value="0" />
+                      <option name="items">
+                        <list />
+                      </option>
+                    </Lesson>
+                  </list>
+                </option>
+              </Section>
+            </list>
+          </option>
+        </EduCourse>
+      </option>
+    </StudyTaskManager>
+  </component>
+</project>
