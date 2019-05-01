@@ -2,6 +2,8 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel>
+      <module name="Advanced-Useful_Packages-Lombok_main" target="1.8" />
+      <module name="Advanced-Useful_Packages-Lombok_test" target="1.8" />
       <module name="Beginner-Basic_Variable_Types-The_Keyword_Types_main" target="1.8" />
       <module name="Beginner-Basic_Variable_Types-The_Keyword_Types_test" target="1.8" />
       <module name="Beginner-Basic_Variable_Types-The_Not-Keyword-Types-But-Still-Important_Types_main" target="1.8" />
@@ -30,8 +32,32 @@
       <module name="Beginner-Objects-Strings_Revisited_test" target="1.8" />
       <module name="Beginner-Variables-But_Sometimes_They're_Not!_main" target="1.8" />
       <module name="Beginner-Variables-But_Sometimes_They're_Not!_test" target="1.8" />
+      <module name="Beginner-Variables-Declaring_and_Using_Variables_main" target="1.8" />
+      <module name="Beginner-Variables-Declaring_and_Using_Variables_test" target="1.8" />
+      <module name="Beginner-Variables-Scope_main" target="1.8" />
+      <module name="Beginner-Variables-Scope_test" target="1.8" />
       <module name="Beginner-Variables-Variables_are_Variable_main" target="1.8" />
       <module name="Beginner-Variables-Variables_are_Variable_test" target="1.8" />
+      <module name="Intermediate-Abstract_Classes-Abstraction,_Why_Do_We_Need_It_main" target="1.8" />
+      <module name="Intermediate-Abstract_Classes-Abstraction,_Why_Do_We_Need_It_test" target="1.8" />
+      <module name="Intermediate-Abstract_Classes-How_To_Abstract_main" target="1.8" />
+      <module name="Intermediate-Abstract_Classes-How_To_Abstract_test" target="1.8" />
+      <module name="Intermediate-Abstract_Classes-What_This_Means_For_Inheritance_main" target="1.8" />
+      <module name="Intermediate-Abstract_Classes-What_This_Means_For_Inheritance_test" target="1.8" />
+      <module name="Intermediate-Enumerations-Back_To_Switch_Statements_main" target="1.8" />
+      <module name="Intermediate-Enumerations-Back_To_Switch_Statements_test" target="1.8" />
+      <module name="Intermediate-Enumerations-Constants_Revisited_main" target="1.8" />
+      <module name="Intermediate-Enumerations-Constants_Revisited_test" target="1.8" />
+      <module name="Intermediate-Enumerations-Making_It_Better_main" target="1.8" />
+      <module name="Intermediate-Enumerations-Making_It_Better_test" target="1.8" />
+      <module name="Intermediate-Interfaces-Like_Abstract_Classes,_But_Moreso_main" target="1.8" />
+      <module name="Intermediate-Interfaces-Like_Abstract_Classes,_But_Moreso_test" target="1.8" />
+      <module name="Intermediate-Switch_Statements-If_Statements_Revisited_main" target="1.8" />
+      <module name="Intermediate-Switch_Statements-If_Statements_Revisited_test" target="1.8" />
+      <module name="Intermediate-Switch_Statements-Making_it_Better_main" target="1.8" />
+      <module name="Intermediate-Switch_Statements-Making_it_Better_test" target="1.8" />
+      <module name="Intermediate-Switch_Statements-The_Limit_Does_Exist_main" target="1.8" />
+      <module name="Intermediate-Switch_Statements-The_Limit_Does_Exist_test" target="1.8" />
       <module name="lesson1-task1_main" target="1.8" />
       <module name="lesson1-task1_test" target="1.8" />
       <module name="util_main" target="1.8" />

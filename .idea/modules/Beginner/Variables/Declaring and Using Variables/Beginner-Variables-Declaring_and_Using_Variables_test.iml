@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":Beginner-Variables-Declaring_and_Using_Variables:test" external.linked.project.path="$MODULE_DIR$/../../../../../Beginner/Variables/Declaring and Using Variables" external.root.project.path="$MODULE_DIR$/../../../../.." external.system.id="GRADLE" external.system.module.group="java-course" external.system.module.type="sourceSet" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8">
+    <output-test url="file://$MODULE_DIR$/../../../../../Beginner/Variables/Declaring and Using Variables/out/test/classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../../Beginner/Variables/Declaring and Using Variables/src/test" />
+    <content url="file://$MODULE_DIR$/../../../../../Beginner/Variables/Declaring and Using Variables/test">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../../Beginner/Variables/Declaring and Using Variables/test" isTestSource="true" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="util_main" />
+    <orderEntry type="module" module-name="util_test" production-on-test="" />
+    <orderEntry type="module" module-name="Beginner-Variables-Declaring_and_Using_Variables_main" />
+    <orderEntry type="library" name="Gradle: junit:junit:4.12" level="project" />
+    <orderEntry type="library" name="Gradle: org.hamcrest:hamcrest-core:1.3" level="project" />
+  </component>
+  <component name="TestModuleProperties" production-module="Beginner-Variables-Declaring_and_Using_Variables_main" />
+</module>

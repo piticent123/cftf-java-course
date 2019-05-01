@@ -283,6 +283,110 @@
                             </option>
                             <option name="updateDate" value="0" />
                           </EduTask>
+                          <EduTask>
+                            <option name="customPresentableName" />
+                            <option name="descriptionFormat" value="HTML" />
+                            <option name="descriptionText" value="&lt;html&gt;&#10;Write your task text here.&#10;&lt;div class=&quot;hint&quot;&gt;&#10;  Hints can be added anywhere in task text: type &quot;hint&quot; and press Tab.&#10;&lt;/div&gt;&#10;&lt;/html&gt;" />
+                            <option name="feedbackLink">
+                              <FeedbackLink>
+                                <option name="link" />
+                                <option name="type" value="STEPIK" />
+                              </FeedbackLink>
+                            </option>
+                            <option name="id" value="0" />
+                            <option name="index" value="3" />
+                            <option name="name" value="Declaring and Using Variables" />
+                            <option name="record" value="-1" />
+                            <option name="status" value="Unchecked" />
+                            <option name="stepikChangeStatus" value="Up to date" />
+                            <option name="files">
+                              <map>
+                                <entry key="src/Task.java">
+                                  <value>
+                                    <TaskFile>
+                                      <option name="answerPlaceholders">
+                                        <list />
+                                      </option>
+                                      <option name="highlightErrors" value="false" />
+                                      <option name="name" value="src/Task.java" />
+                                      <option name="text" value="public class Task {&#10;  //put your task here&#10;}" />
+                                      <option name="trackChanges" value="true" />
+                                      <option name="trackLengths" value="true" />
+                                      <option name="visible" value="true" />
+                                    </TaskFile>
+                                  </value>
+                                </entry>
+                                <entry key="test/Tests.java">
+                                  <value>
+                                    <TaskFile>
+                                      <option name="answerPlaceholders">
+                                        <list />
+                                      </option>
+                                      <option name="highlightErrors" value="false" />
+                                      <option name="name" value="test/Tests.java" />
+                                      <option name="text" value="import org.junit.Assert;&#10;import org.junit.Test;&#10;&#10;public class Tests {&#10;  @Test&#10;  public void testSolution() {&#10;    // put your test here&#10;    Assert.fail(&quot;Tests not implemented for the task&quot;);&#10;  }&#10;}" />
+                                      <option name="trackChanges" value="true" />
+                                      <option name="trackLengths" value="true" />
+                                      <option name="visible" value="false" />
+                                    </TaskFile>
+                                  </value>
+                                </entry>
+                              </map>
+                            </option>
+                            <option name="updateDate" value="0" />
+                          </EduTask>
+                          <EduTask>
+                            <option name="customPresentableName" />
+                            <option name="descriptionFormat" value="HTML" />
+                            <option name="descriptionText" value="&lt;html&gt;&#10;Write your task text here.&#10;&lt;div class=&quot;hint&quot;&gt;&#10;  Hints can be added anywhere in task text: type &quot;hint&quot; and press Tab.&#10;&lt;/div&gt;&#10;&lt;/html&gt;" />
+                            <option name="feedbackLink">
+                              <FeedbackLink>
+                                <option name="link" />
+                                <option name="type" value="STEPIK" />
+                              </FeedbackLink>
+                            </option>
+                            <option name="id" value="0" />
+                            <option name="index" value="4" />
+                            <option name="name" value="Scope" />
+                            <option name="record" value="-1" />
+                            <option name="status" value="Unchecked" />
+                            <option name="stepikChangeStatus" value="Up to date" />
+                            <option name="files">
+                              <map>
+                                <entry key="src/Task.java">
+                                  <value>
+                                    <TaskFile>
+                                      <option name="answerPlaceholders">
+                                        <list />
+                                      </option>
+                                      <option name="highlightErrors" value="false" />
+                                      <option name="name" value="src/Task.java" />
+                                      <option name="text" value="public class Task {&#10;  //put your task here&#10;}" />
+                                      <option name="trackChanges" value="true" />
+                                      <option name="trackLengths" value="true" />
+                                      <option name="visible" value="true" />
+                                    </TaskFile>
+                                  </value>
+                                </entry>
+                                <entry key="test/Tests.java">
+                                  <value>
+                                    <TaskFile>
+                                      <option name="answerPlaceholders">
+                                        <list />
+                                      </option>
+                                      <option name="highlightErrors" value="false" />
+                                      <option name="name" value="test/Tests.java" />
+                                      <option name="text" value="import org.junit.Assert;&#10;import org.junit.Test;&#10;&#10;public class Tests {&#10;  @Test&#10;  public void testSolution() {&#10;    // put your test here&#10;    Assert.fail(&quot;Tests not implemented for the task&quot;);&#10;  }&#10;}" />
+                                      <option name="trackChanges" value="true" />
+                                      <option name="trackLengths" value="true" />
+                                      <option name="visible" value="false" />
+                                    </TaskFile>
+                                  </value>
+                                </entry>
+                              </map>
+                            </option>
+                            <option name="updateDate" value="0" />
+                          </EduTask>
                         </list>
                       </option>
                     </Lesson>
@@ -406,7 +510,7 @@
                     <Lesson>
                       <option name="customPresentableName" />
                       <option name="id" value="0" />
-                      <option name="index" value="3" />
+                      <option name="index" value="4" />
                       <option name="name" value="If" />
                       <option name="stepikChangeStatus" value="Up to date" />
                       <option name="updateDate" value="0" />
@@ -418,7 +522,7 @@
                     <Lesson>
                       <option name="customPresentableName" />
                       <option name="id" value="0" />
-                      <option name="index" value="4" />
+                      <option name="index" value="5" />
                       <option name="name" value="If Statements" />
                       <option name="stepikChangeStatus" value="Content changed" />
                       <option name="updateDate" value="0" />
@@ -710,7 +814,164 @@
                       <option name="updateDate" value="0" />
                       <option name="unitId" value="0" />
                       <option name="items">
-                        <list />
+                        <list>
+                          <EduTask>
+                            <option name="customPresentableName" />
+                            <option name="descriptionFormat" value="HTML" />
+                            <option name="descriptionText" value="&lt;html&gt;&#10;Write your task text here.&#10;&lt;div class=&quot;hint&quot;&gt;&#10;  Hints can be added anywhere in task text: type &quot;hint&quot; and press Tab.&#10;&lt;/div&gt;&#10;&lt;/html&gt;" />
+                            <option name="feedbackLink">
+                              <FeedbackLink>
+                                <option name="link" />
+                                <option name="type" value="STEPIK" />
+                              </FeedbackLink>
+                            </option>
+                            <option name="id" value="0" />
+                            <option name="index" value="1" />
+                            <option name="name" value="Objects are Made From Classes" />
+                            <option name="record" value="-1" />
+                            <option name="status" value="Unchecked" />
+                            <option name="stepikChangeStatus" value="Up to date" />
+                            <option name="files">
+                              <map>
+                                <entry key="src/Task.java">
+                                  <value>
+                                    <TaskFile>
+                                      <option name="answerPlaceholders">
+                                        <list />
+                                      </option>
+                                      <option name="highlightErrors" value="false" />
+                                      <option name="name" value="src/Task.java" />
+                                      <option name="text" value="public class Task {&#10;  //put your task here&#10;}" />
+                                      <option name="trackChanges" value="true" />
+                                      <option name="trackLengths" value="true" />
+                                      <option name="visible" value="true" />
+                                    </TaskFile>
+                                  </value>
+                                </entry>
+                                <entry key="test/Tests.java">
+                                  <value>
+                                    <TaskFile>
+                                      <option name="answerPlaceholders">
+                                        <list />
+                                      </option>
+                                      <option name="highlightErrors" value="false" />
+                                      <option name="name" value="test/Tests.java" />
+                                      <option name="text" value="import org.junit.Assert;&#10;import org.junit.Test;&#10;&#10;public class Tests {&#10;  @Test&#10;  public void testSolution() {&#10;    // put your test here&#10;    Assert.fail(&quot;Tests not implemented for the task&quot;);&#10;  }&#10;}" />
+                                      <option name="trackChanges" value="true" />
+                                      <option name="trackLengths" value="true" />
+                                      <option name="visible" value="false" />
+                                    </TaskFile>
+                                  </value>
+                                </entry>
+                              </map>
+                            </option>
+                            <option name="updateDate" value="0" />
+                          </EduTask>
+                          <EduTask>
+                            <option name="customPresentableName" />
+                            <option name="descriptionFormat" value="HTML" />
+                            <option name="descriptionText" value="&lt;html&gt;&#10;Write your task text here.&#10;&lt;div class=&quot;hint&quot;&gt;&#10;  Hints can be added anywhere in task text: type &quot;hint&quot; and press Tab.&#10;&lt;/div&gt;&#10;&lt;/html&gt;" />
+                            <option name="feedbackLink">
+                              <FeedbackLink>
+                                <option name="link" />
+                                <option name="type" value="STEPIK" />
+                              </FeedbackLink>
+                            </option>
+                            <option name="id" value="0" />
+                            <option name="index" value="2" />
+                            <option name="name" value="Strings Revisited" />
+                            <option name="record" value="-1" />
+                            <option name="status" value="Unchecked" />
+                            <option name="stepikChangeStatus" value="Up to date" />
+                            <option name="files">
+                              <map>
+                                <entry key="src/Task.java">
+                                  <value>
+                                    <TaskFile>
+                                      <option name="answerPlaceholders">
+                                        <list />
+                                      </option>
+                                      <option name="highlightErrors" value="false" />
+                                      <option name="name" value="src/Task.java" />
+                                      <option name="text" value="public class Task {&#10;  //put your task here&#10;}" />
+                                      <option name="trackChanges" value="true" />
+                                      <option name="trackLengths" value="true" />
+                                      <option name="visible" value="true" />
+                                    </TaskFile>
+                                  </value>
+                                </entry>
+                                <entry key="test/Tests.java">
+                                  <value>
+                                    <TaskFile>
+                                      <option name="answerPlaceholders">
+                                        <list />
+                                      </option>
+                                      <option name="highlightErrors" value="false" />
+                                      <option name="name" value="test/Tests.java" />
+                                      <option name="text" value="import org.junit.Assert;&#10;import org.junit.Test;&#10;&#10;public class Tests {&#10;  @Test&#10;  public void testSolution() {&#10;    // put your test here&#10;    Assert.fail(&quot;Tests not implemented for the task&quot;);&#10;  }&#10;}" />
+                                      <option name="trackChanges" value="true" />
+                                      <option name="trackLengths" value="true" />
+                                      <option name="visible" value="false" />
+                                    </TaskFile>
+                                  </value>
+                                </entry>
+                              </map>
+                            </option>
+                            <option name="updateDate" value="0" />
+                          </EduTask>
+                          <EduTask>
+                            <option name="customPresentableName" />
+                            <option name="descriptionFormat" value="HTML" />
+                            <option name="descriptionText" value="&lt;html&gt;&#10;Write your task text here.&#10;&lt;div class=&quot;hint&quot;&gt;&#10;  Hints can be added anywhere in task text: type &quot;hint&quot; and press Tab.&#10;&lt;/div&gt;&#10;&lt;/html&gt;" />
+                            <option name="feedbackLink">
+                              <FeedbackLink>
+                                <option name="link" />
+                                <option name="type" value="STEPIK" />
+                              </FeedbackLink>
+                            </option>
+                            <option name="id" value="0" />
+                            <option name="index" value="3" />
+                            <option name="name" value="Common Patterns" />
+                            <option name="record" value="-1" />
+                            <option name="status" value="Unchecked" />
+                            <option name="stepikChangeStatus" value="Up to date" />
+                            <option name="files">
+                              <map>
+                                <entry key="src/Task.java">
+                                  <value>
+                                    <TaskFile>
+                                      <option name="answerPlaceholders">
+                                        <list />
+                                      </option>
+                                      <option name="highlightErrors" value="false" />
+                                      <option name="name" value="src/Task.java" />
+                                      <option name="text" value="public class Task {&#10;  //put your task here&#10;}" />
+                                      <option name="trackChanges" value="true" />
+                                      <option name="trackLengths" value="true" />
+                                      <option name="visible" value="true" />
+                                    </TaskFile>
+                                  </value>
+                                </entry>
+                                <entry key="test/Tests.java">
+                                  <value>
+                                    <TaskFile>
+                                      <option name="answerPlaceholders">
+                                        <list />
+                                      </option>
+                                      <option name="highlightErrors" value="false" />
+                                      <option name="name" value="test/Tests.java" />
+                                      <option name="text" value="import org.junit.Assert;&#10;import org.junit.Test;&#10;&#10;public class Tests {&#10;  @Test&#10;  public void testSolution() {&#10;    // put your test here&#10;    Assert.fail(&quot;Tests not implemented for the task&quot;);&#10;  }&#10;}" />
+                                      <option name="trackChanges" value="true" />
+                                      <option name="trackLengths" value="true" />
+                                      <option name="visible" value="false" />
+                                    </TaskFile>
+                                  </value>
+                                </entry>
+                              </map>
+                            </option>
+                            <option name="updateDate" value="0" />
+                          </EduTask>
+                        </list>
                       </option>
                     </Lesson>
                   </list>
@@ -732,11 +993,168 @@
                       <option name="id" value="0" />
                       <option name="index" value="1" />
                       <option name="name" value="Switch Statements" />
-                      <option name="stepikChangeStatus" value="Up to date" />
+                      <option name="stepikChangeStatus" value="Content changed" />
                       <option name="updateDate" value="0" />
                       <option name="unitId" value="0" />
                       <option name="items">
-                        <list />
+                        <list>
+                          <EduTask>
+                            <option name="customPresentableName" />
+                            <option name="descriptionFormat" value="HTML" />
+                            <option name="descriptionText" value="&lt;html&gt;&#10;Write your task text here.&#10;&lt;div class=&quot;hint&quot;&gt;&#10;  Hints can be added anywhere in task text: type &quot;hint&quot; and press Tab.&#10;&lt;/div&gt;&#10;&lt;/html&gt;" />
+                            <option name="feedbackLink">
+                              <FeedbackLink>
+                                <option name="link" />
+                                <option name="type" value="STEPIK" />
+                              </FeedbackLink>
+                            </option>
+                            <option name="id" value="0" />
+                            <option name="index" value="1" />
+                            <option name="name" value="If Statements Revisited" />
+                            <option name="record" value="-1" />
+                            <option name="status" value="Unchecked" />
+                            <option name="stepikChangeStatus" value="Up to date" />
+                            <option name="files">
+                              <map>
+                                <entry key="src/Task.java">
+                                  <value>
+                                    <TaskFile>
+                                      <option name="answerPlaceholders">
+                                        <list />
+                                      </option>
+                                      <option name="highlightErrors" value="false" />
+                                      <option name="name" value="src/Task.java" />
+                                      <option name="text" value="public class Task {&#10;  //put your task here&#10;}" />
+                                      <option name="trackChanges" value="true" />
+                                      <option name="trackLengths" value="true" />
+                                      <option name="visible" value="true" />
+                                    </TaskFile>
+                                  </value>
+                                </entry>
+                                <entry key="test/Tests.java">
+                                  <value>
+                                    <TaskFile>
+                                      <option name="answerPlaceholders">
+                                        <list />
+                                      </option>
+                                      <option name="highlightErrors" value="false" />
+                                      <option name="name" value="test/Tests.java" />
+                                      <option name="text" value="import org.junit.Assert;&#10;import org.junit.Test;&#10;&#10;public class Tests {&#10;  @Test&#10;  public void testSolution() {&#10;    // put your test here&#10;    Assert.fail(&quot;Tests not implemented for the task&quot;);&#10;  }&#10;}" />
+                                      <option name="trackChanges" value="true" />
+                                      <option name="trackLengths" value="true" />
+                                      <option name="visible" value="false" />
+                                    </TaskFile>
+                                  </value>
+                                </entry>
+                              </map>
+                            </option>
+                            <option name="updateDate" value="0" />
+                          </EduTask>
+                          <EduTask>
+                            <option name="customPresentableName" />
+                            <option name="descriptionFormat" value="HTML" />
+                            <option name="descriptionText" value="&lt;html&gt;&#10;Write your task text here.&#10;&lt;div class=&quot;hint&quot;&gt;&#10;  Hints can be added anywhere in task text: type &quot;hint&quot; and press Tab.&#10;&lt;/div&gt;&#10;&lt;/html&gt;" />
+                            <option name="feedbackLink">
+                              <FeedbackLink>
+                                <option name="link" />
+                                <option name="type" value="STEPIK" />
+                              </FeedbackLink>
+                            </option>
+                            <option name="id" value="0" />
+                            <option name="index" value="2" />
+                            <option name="name" value="Making it Better" />
+                            <option name="record" value="-1" />
+                            <option name="status" value="Unchecked" />
+                            <option name="stepikChangeStatus" value="Up to date" />
+                            <option name="files">
+                              <map>
+                                <entry key="src/Task.java">
+                                  <value>
+                                    <TaskFile>
+                                      <option name="answerPlaceholders">
+                                        <list />
+                                      </option>
+                                      <option name="highlightErrors" value="false" />
+                                      <option name="name" value="src/Task.java" />
+                                      <option name="text" value="public class Task {&#10;  //put your task here&#10;}" />
+                                      <option name="trackChanges" value="true" />
+                                      <option name="trackLengths" value="true" />
+                                      <option name="visible" value="true" />
+                                    </TaskFile>
+                                  </value>
+                                </entry>
+                                <entry key="test/Tests.java">
+                                  <value>
+                                    <TaskFile>
+                                      <option name="answerPlaceholders">
+                                        <list />
+                                      </option>
+                                      <option name="highlightErrors" value="false" />
+                                      <option name="name" value="test/Tests.java" />
+                                      <option name="text" value="import org.junit.Assert;&#10;import org.junit.Test;&#10;&#10;public class Tests {&#10;  @Test&#10;  public void testSolution() {&#10;    // put your test here&#10;    Assert.fail(&quot;Tests not implemented for the task&quot;);&#10;  }&#10;}" />
+                                      <option name="trackChanges" value="true" />
+                                      <option name="trackLengths" value="true" />
+                                      <option name="visible" value="false" />
+                                    </TaskFile>
+                                  </value>
+                                </entry>
+                              </map>
+                            </option>
+                            <option name="updateDate" value="0" />
+                          </EduTask>
+                          <EduTask>
+                            <option name="customPresentableName" />
+                            <option name="descriptionFormat" value="HTML" />
+                            <option name="descriptionText" value="&lt;html&gt;&#10;Write your task text here.&#10;&lt;div class=&quot;hint&quot;&gt;&#10;  Hints can be added anywhere in task text: type &quot;hint&quot; and press Tab.&#10;&lt;/div&gt;&#10;&lt;/html&gt;" />
+                            <option name="feedbackLink">
+                              <FeedbackLink>
+                                <option name="link" />
+                                <option name="type" value="STEPIK" />
+                              </FeedbackLink>
+                            </option>
+                            <option name="id" value="0" />
+                            <option name="index" value="3" />
+                            <option name="name" value="The Limit Does Exist" />
+                            <option name="record" value="-1" />
+                            <option name="status" value="Unchecked" />
+                            <option name="stepikChangeStatus" value="Up to date" />
+                            <option name="files">
+                              <map>
+                                <entry key="src/Task.java">
+                                  <value>
+                                    <TaskFile>
+                                      <option name="answerPlaceholders">
+                                        <list />
+                                      </option>
+                                      <option name="highlightErrors" value="false" />
+                                      <option name="name" value="src/Task.java" />
+                                      <option name="text" value="public class Task {&#10;  //put your task here&#10;}" />
+                                      <option name="trackChanges" value="true" />
+                                      <option name="trackLengths" value="true" />
+                                      <option name="visible" value="true" />
+                                    </TaskFile>
+                                  </value>
+                                </entry>
+                                <entry key="test/Tests.java">
+                                  <value>
+                                    <TaskFile>
+                                      <option name="answerPlaceholders">
+                                        <list />
+                                      </option>
+                                      <option name="highlightErrors" value="false" />
+                                      <option name="name" value="test/Tests.java" />
+                                      <option name="text" value="import org.junit.Assert;&#10;import org.junit.Test;&#10;&#10;public class Tests {&#10;  @Test&#10;  public void testSolution() {&#10;    // put your test here&#10;    Assert.fail(&quot;Tests not implemented for the task&quot;);&#10;  }&#10;}" />
+                                      <option name="trackChanges" value="true" />
+                                      <option name="trackLengths" value="true" />
+                                      <option name="visible" value="false" />
+                                    </TaskFile>
+                                  </value>
+                                </entry>
+                              </map>
+                            </option>
+                            <option name="updateDate" value="0" />
+                          </EduTask>
+                        </list>
                       </option>
                     </Lesson>
                     <Lesson>
@@ -744,11 +1162,64 @@
                       <option name="id" value="0" />
                       <option name="index" value="2" />
                       <option name="name" value="Abstract Classes" />
-                      <option name="stepikChangeStatus" value="Up to date" />
+                      <option name="stepikChangeStatus" value="Content changed" />
                       <option name="updateDate" value="0" />
                       <option name="unitId" value="0" />
                       <option name="items">
-                        <list />
+                        <list>
+                          <EduTask>
+                            <option name="customPresentableName" />
+                            <option name="descriptionFormat" value="HTML" />
+                            <option name="descriptionText" value="&lt;html&gt;&#10;Write your task text here.&#10;&lt;div class=&quot;hint&quot;&gt;&#10;  Hints can be added anywhere in task text: type &quot;hint&quot; and press Tab.&#10;&lt;/div&gt;&#10;&lt;/html&gt;" />
+                            <option name="feedbackLink">
+                              <FeedbackLink>
+                                <option name="link" />
+                                <option name="type" value="STEPIK" />
+                              </FeedbackLink>
+                            </option>
+                            <option name="id" value="0" />
+                            <option name="index" value="1" />
+                            <option name="name" value="Abstraction, Why Do We Need It" />
+                            <option name="record" value="-1" />
+                            <option name="status" value="Unchecked" />
+                            <option name="stepikChangeStatus" value="Up to date" />
+                            <option name="files">
+                              <map>
+                                <entry key="src/Task.java">
+                                  <value>
+                                    <TaskFile>
+                                      <option name="answerPlaceholders">
+                                        <list />
+                                      </option>
+                                      <option name="highlightErrors" value="false" />
+                                      <option name="name" value="src/Task.java" />
+                                      <option name="text" value="public class Task {&#10;  //put your task here&#10;}" />
+                                      <option name="trackChanges" value="true" />
+                                      <option name="trackLengths" value="true" />
+                                      <option name="visible" value="true" />
+                                    </TaskFile>
+                                  </value>
+                                </entry>
+                                <entry key="test/Tests.java">
+                                  <value>
+                                    <TaskFile>
+                                      <option name="answerPlaceholders">
+                                        <list />
+                                      </option>
+                                      <option name="highlightErrors" value="false" />
+                                      <option name="name" value="test/Tests.java" />
+                                      <option name="text" value="import org.junit.Assert;&#10;import org.junit.Test;&#10;&#10;public class Tests {&#10;  @Test&#10;  public void testSolution() {&#10;    // put your test here&#10;    Assert.fail(&quot;Tests not implemented for the task&quot;);&#10;  }&#10;}" />
+                                      <option name="trackChanges" value="true" />
+                                      <option name="trackLengths" value="true" />
+                                      <option name="visible" value="false" />
+                                    </TaskFile>
+                                  </value>
+                                </entry>
+                              </map>
+                            </option>
+                            <option name="updateDate" value="0" />
+                          </EduTask>
+                        </list>
                       </option>
                     </Lesson>
                     <Lesson>
@@ -768,11 +1239,168 @@
                       <option name="id" value="0" />
                       <option name="index" value="4" />
                       <option name="name" value="Enumerations" />
-                      <option name="stepikChangeStatus" value="Up to date" />
+                      <option name="stepikChangeStatus" value="Content changed" />
                       <option name="updateDate" value="0" />
                       <option name="unitId" value="0" />
                       <option name="items">
-                        <list />
+                        <list>
+                          <EduTask>
+                            <option name="customPresentableName" />
+                            <option name="descriptionFormat" value="HTML" />
+                            <option name="descriptionText" value="&lt;html&gt;&#10;Write your task text here.&#10;&lt;div class=&quot;hint&quot;&gt;&#10;  Hints can be added anywhere in task text: type &quot;hint&quot; and press Tab.&#10;&lt;/div&gt;&#10;&lt;/html&gt;" />
+                            <option name="feedbackLink">
+                              <FeedbackLink>
+                                <option name="link" />
+                                <option name="type" value="STEPIK" />
+                              </FeedbackLink>
+                            </option>
+                            <option name="id" value="0" />
+                            <option name="index" value="1" />
+                            <option name="name" value="Constants Revisited" />
+                            <option name="record" value="-1" />
+                            <option name="status" value="Unchecked" />
+                            <option name="stepikChangeStatus" value="Up to date" />
+                            <option name="files">
+                              <map>
+                                <entry key="src/Task.java">
+                                  <value>
+                                    <TaskFile>
+                                      <option name="answerPlaceholders">
+                                        <list />
+                                      </option>
+                                      <option name="highlightErrors" value="false" />
+                                      <option name="name" value="src/Task.java" />
+                                      <option name="text" value="public class Task {&#10;  //put your task here&#10;}" />
+                                      <option name="trackChanges" value="true" />
+                                      <option name="trackLengths" value="true" />
+                                      <option name="visible" value="true" />
+                                    </TaskFile>
+                                  </value>
+                                </entry>
+                                <entry key="test/Tests.java">
+                                  <value>
+                                    <TaskFile>
+                                      <option name="answerPlaceholders">
+                                        <list />
+                                      </option>
+                                      <option name="highlightErrors" value="false" />
+                                      <option name="name" value="test/Tests.java" />
+                                      <option name="text" value="import org.junit.Assert;&#10;import org.junit.Test;&#10;&#10;public class Tests {&#10;  @Test&#10;  public void testSolution() {&#10;    // put your test here&#10;    Assert.fail(&quot;Tests not implemented for the task&quot;);&#10;  }&#10;}" />
+                                      <option name="trackChanges" value="true" />
+                                      <option name="trackLengths" value="true" />
+                                      <option name="visible" value="false" />
+                                    </TaskFile>
+                                  </value>
+                                </entry>
+                              </map>
+                            </option>
+                            <option name="updateDate" value="0" />
+                          </EduTask>
+                          <EduTask>
+                            <option name="customPresentableName" />
+                            <option name="descriptionFormat" value="HTML" />
+                            <option name="descriptionText" value="&lt;html&gt;&#10;Write your task text here.&#10;&lt;div class=&quot;hint&quot;&gt;&#10;  Hints can be added anywhere in task text: type &quot;hint&quot; and press Tab.&#10;&lt;/div&gt;&#10;&lt;/html&gt;" />
+                            <option name="feedbackLink">
+                              <FeedbackLink>
+                                <option name="link" />
+                                <option name="type" value="STEPIK" />
+                              </FeedbackLink>
+                            </option>
+                            <option name="id" value="0" />
+                            <option name="index" value="2" />
+                            <option name="name" value="Making It Better" />
+                            <option name="record" value="-1" />
+                            <option name="status" value="Unchecked" />
+                            <option name="stepikChangeStatus" value="Up to date" />
+                            <option name="files">
+                              <map>
+                                <entry key="src/Task.java">
+                                  <value>
+                                    <TaskFile>
+                                      <option name="answerPlaceholders">
+                                        <list />
+                                      </option>
+                                      <option name="highlightErrors" value="false" />
+                                      <option name="name" value="src/Task.java" />
+                                      <option name="text" value="public class Task {&#10;  //put your task here&#10;}" />
+                                      <option name="trackChanges" value="true" />
+                                      <option name="trackLengths" value="true" />
+                                      <option name="visible" value="true" />
+                                    </TaskFile>
+                                  </value>
+                                </entry>
+                                <entry key="test/Tests.java">
+                                  <value>
+                                    <TaskFile>
+                                      <option name="answerPlaceholders">
+                                        <list />
+                                      </option>
+                                      <option name="highlightErrors" value="false" />
+                                      <option name="name" value="test/Tests.java" />
+                                      <option name="text" value="import org.junit.Assert;&#10;import org.junit.Test;&#10;&#10;public class Tests {&#10;  @Test&#10;  public void testSolution() {&#10;    // put your test here&#10;    Assert.fail(&quot;Tests not implemented for the task&quot;);&#10;  }&#10;}" />
+                                      <option name="trackChanges" value="true" />
+                                      <option name="trackLengths" value="true" />
+                                      <option name="visible" value="false" />
+                                    </TaskFile>
+                                  </value>
+                                </entry>
+                              </map>
+                            </option>
+                            <option name="updateDate" value="0" />
+                          </EduTask>
+                          <EduTask>
+                            <option name="customPresentableName" />
+                            <option name="descriptionFormat" value="HTML" />
+                            <option name="descriptionText" value="&lt;html&gt;&#10;Write your task text here.&#10;&lt;div class=&quot;hint&quot;&gt;&#10;  Hints can be added anywhere in task text: type &quot;hint&quot; and press Tab.&#10;&lt;/div&gt;&#10;&lt;/html&gt;" />
+                            <option name="feedbackLink">
+                              <FeedbackLink>
+                                <option name="link" />
+                                <option name="type" value="STEPIK" />
+                              </FeedbackLink>
+                            </option>
+                            <option name="id" value="0" />
+                            <option name="index" value="3" />
+                            <option name="name" value="Back To Switch Statements" />
+                            <option name="record" value="-1" />
+                            <option name="status" value="Unchecked" />
+                            <option name="stepikChangeStatus" value="Up to date" />
+                            <option name="files">
+                              <map>
+                                <entry key="src/Task.java">
+                                  <value>
+                                    <TaskFile>
+                                      <option name="answerPlaceholders">
+                                        <list />
+                                      </option>
+                                      <option name="highlightErrors" value="false" />
+                                      <option name="name" value="src/Task.java" />
+                                      <option name="text" value="public class Task {&#10;  //put your task here&#10;}" />
+                                      <option name="trackChanges" value="true" />
+                                      <option name="trackLengths" value="true" />
+                                      <option name="visible" value="true" />
+                                    </TaskFile>
+                                  </value>
+                                </entry>
+                                <entry key="test/Tests.java">
+                                  <value>
+                                    <TaskFile>
+                                      <option name="answerPlaceholders">
+                                        <list />
+                                      </option>
+                                      <option name="highlightErrors" value="false" />
+                                      <option name="name" value="test/Tests.java" />
+                                      <option name="text" value="import org.junit.Assert;&#10;import org.junit.Test;&#10;&#10;public class Tests {&#10;  @Test&#10;  public void testSolution() {&#10;    // put your test here&#10;    Assert.fail(&quot;Tests not implemented for the task&quot;);&#10;  }&#10;}" />
+                                      <option name="trackChanges" value="true" />
+                                      <option name="trackLengths" value="true" />
+                                      <option name="visible" value="false" />
+                                    </TaskFile>
+                                  </value>
+                                </entry>
+                              </map>
+                            </option>
+                            <option name="updateDate" value="0" />
+                          </EduTask>
+                        </list>
                       </option>
                     </Lesson>
                   </list>
@@ -841,6 +1469,71 @@
                       <option name="customPresentableName" />
                       <option name="id" value="0" />
                       <option name="index" value="5" />
+                      <option name="name" value="Useful Packages" />
+                      <option name="stepikChangeStatus" value="Content changed" />
+                      <option name="updateDate" value="0" />
+                      <option name="unitId" value="0" />
+                      <option name="items">
+                        <list>
+                          <EduTask>
+                            <option name="customPresentableName" />
+                            <option name="descriptionFormat" value="HTML" />
+                            <option name="descriptionText" value="&lt;html&gt;&#10;Write your task text here.&#10;&lt;div class=&quot;hint&quot;&gt;&#10;  Hints can be added anywhere in task text: type &quot;hint&quot; and press Tab.&#10;&lt;/div&gt;&#10;&lt;/html&gt;" />
+                            <option name="feedbackLink">
+                              <FeedbackLink>
+                                <option name="link" />
+                                <option name="type" value="STEPIK" />
+                              </FeedbackLink>
+                            </option>
+                            <option name="id" value="0" />
+                            <option name="index" value="1" />
+                            <option name="name" value="Lombok" />
+                            <option name="record" value="-1" />
+                            <option name="status" value="Unchecked" />
+                            <option name="stepikChangeStatus" value="Up to date" />
+                            <option name="files">
+                              <map>
+                                <entry key="src/Task.java">
+                                  <value>
+                                    <TaskFile>
+                                      <option name="answerPlaceholders">
+                                        <list />
+                                      </option>
+                                      <option name="highlightErrors" value="false" />
+                                      <option name="name" value="src/Task.java" />
+                                      <option name="text" value="public class Task {&#10;  //put your task here&#10;}" />
+                                      <option name="trackChanges" value="true" />
+                                      <option name="trackLengths" value="true" />
+                                      <option name="visible" value="true" />
+                                    </TaskFile>
+                                  </value>
+                                </entry>
+                                <entry key="test/Tests.java">
+                                  <value>
+                                    <TaskFile>
+                                      <option name="answerPlaceholders">
+                                        <list />
+                                      </option>
+                                      <option name="highlightErrors" value="false" />
+                                      <option name="name" value="test/Tests.java" />
+                                      <option name="text" value="import org.junit.Assert;&#10;import org.junit.Test;&#10;&#10;public class Tests {&#10;  @Test&#10;  public void testSolution() {&#10;    // put your test here&#10;    Assert.fail(&quot;Tests not implemented for the task&quot;);&#10;  }&#10;}" />
+                                      <option name="trackChanges" value="true" />
+                                      <option name="trackLengths" value="true" />
+                                      <option name="visible" value="false" />
+                                    </TaskFile>
+                                  </value>
+                                </entry>
+                              </map>
+                            </option>
+                            <option name="updateDate" value="0" />
+                          </EduTask>
+                        </list>
+                      </option>
+                    </Lesson>
+                    <Lesson>
+                      <option name="customPresentableName" />
+                      <option name="id" value="0" />
+                      <option name="index" value="6" />
                       <option name="name" value="Android" />
                       <option name="stepikChangeStatus" value="Up to date" />
                       <option name="updateDate" value="0" />
