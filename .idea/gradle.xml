@@ -8,7 +8,20 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/lesson1/task1" />
+            <option value="$PROJECT_DIR$/Beginner/Basic Variable Types/The Keyword Types" />
+            <option value="$PROJECT_DIR$/Beginner/Basic Variable Types/The Not-Keyword-Types-But-Still-Important Types" />
+            <option value="$PROJECT_DIR$/Beginner/Hello World/Running a Program" />
+            <option value="$PROJECT_DIR$/Beginner/Hello World/Understanding Imports" />
+            <option value="$PROJECT_DIR$/Beginner/If Statements/The 'Cool Kid' If Statement" />
+            <option value="$PROJECT_DIR$/Beginner/If Statements/The If Statement" />
+            <option value="$PROJECT_DIR$/Beginner/Loops/For Loops" />
+            <option value="$PROJECT_DIR$/Beginner/Loops/Recursive Loops" />
+            <option value="$PROJECT_DIR$/Beginner/Loops/While Loops" />
+            <option value="$PROJECT_DIR$/Beginner/Objects/Common Patterns" />
+            <option value="$PROJECT_DIR$/Beginner/Objects/Objects are Made From Classes" />
+            <option value="$PROJECT_DIR$/Beginner/Objects/Strings Revisited" />
+            <option value="$PROJECT_DIR$/Beginner/Variables/But Sometimes They're Not!" />
+            <option value="$PROJECT_DIR$/Beginner/Variables/Variables are Variable" />
             <option value="$PROJECT_DIR$/util" />
           </set>
         </option>
