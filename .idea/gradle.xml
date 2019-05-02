@@ -8,7 +8,23 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Advanced/Android/Hello World" />
+            <option value="$PROJECT_DIR$/Advanced/Build Systems/Gradle" />
+            <option value="$PROJECT_DIR$/Advanced/Build Systems/Maven" />
+            <option value="$PROJECT_DIR$/Advanced/JClasses/Custom Painting" />
+            <option value="$PROJECT_DIR$/Advanced/JClasses/Hello World" />
+            <option value="$PROJECT_DIR$/Advanced/JClasses/JavaFX and the Future" />
+            <option value="$PROJECT_DIR$/Advanced/JClasses/Other JElements" />
+            <option value="$PROJECT_DIR$/Advanced/The Terminal/Hello World, Revisited" />
+            <option value="$PROJECT_DIR$/Advanced/The Terminal/Input" />
+            <option value="$PROJECT_DIR$/Advanced/The Terminal/Output" />
+            <option value="$PROJECT_DIR$/Advanced/The Terminal/Returning From Main" />
             <option value="$PROJECT_DIR$/Advanced/Useful Packages/Lombok" />
+            <option value="$PROJECT_DIR$/Advanced/Version Control/Github" />
+            <option value="$PROJECT_DIR$/Advanced/Version Control/Introduction to Git" />
+            <option value="$PROJECT_DIR$/Advanced/Version Control/Other Systems" />
+            <option value="$PROJECT_DIR$/Advanced/Version Control/Some Cool Git" />
+            <option value="$PROJECT_DIR$/Advanced/Version Control/The Practical Git" />
             <option value="$PROJECT_DIR$/Beginner/Basic Variable Types/The Keyword Types" />
             <option value="$PROJECT_DIR$/Beginner/Basic Variable Types/The Not-Keyword-Types-But-Still-Important Types" />
             <option value="$PROJECT_DIR$/Beginner/Hello World/Running a Program" />

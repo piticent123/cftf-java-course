@@ -2,8 +2,44 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel>
+      <module name="Advanced-Android-Hello_World_main" target="1.8" />
+      <module name="Advanced-Android-Hello_World_test" target="1.8" />
+      <module name="Advanced-Build_Systems-Gradle_main" target="1.8" />
+      <module name="Advanced-Build_Systems-Gradle_test" target="1.8" />
+      <module name="Advanced-Build_Systems-Maven_main" target="1.8" />
+      <module name="Advanced-Build_Systems-Maven_test" target="1.8" />
+      <module name="Advanced-JClasses-Custom_Painting_main" target="1.8" />
+      <module name="Advanced-JClasses-Custom_Painting_test" target="1.8" />
+      <module name="Advanced-JClasses-Hello_World_main" target="1.8" />
+      <module name="Advanced-JClasses-Hello_World_test" target="1.8" />
+      <module name="Advanced-JClasses-JavaFX_and_the_Future_main" target="1.8" />
+      <module name="Advanced-JClasses-JavaFX_and_the_Future_test" target="1.8" />
+      <module name="Advanced-JClasses-Other_JElements_main" target="1.8" />
+      <module name="Advanced-JClasses-Other_JElements_test" target="1.8" />
+      <module name="Advanced-The_Terminal-Hello_World,_Revisited_main" target="1.8" />
+      <module name="Advanced-The_Terminal-Hello_World,_Revisited_test" target="1.8" />
+      <module name="Advanced-The_Terminal-Input_main" target="1.8" />
+      <module name="Advanced-The_Terminal-Input_test" target="1.8" />
+      <module name="Advanced-The_Terminal-Output_main" target="1.8" />
+      <module name="Advanced-The_Terminal-Output_test" target="1.8" />
+      <module name="Advanced-The_Terminal-Returning_From_Main_main" target="1.8" />
+      <module name="Advanced-The_Terminal-Returning_From_Main_test" target="1.8" />
       <module name="Advanced-Useful_Packages-Lombok_main" target="1.8" />
       <module name="Advanced-Useful_Packages-Lombok_test" target="1.8" />
+      <module name="Advanced-Version_Control-Git_main" target="1.8" />
+      <module name="Advanced-Version_Control-Git_test" target="1.8" />
+      <module name="Advanced-Version_Control-Github_main" target="1.8" />
+      <module name="Advanced-Version_Control-Github_test" target="1.8" />
+      <module name="Advanced-Version_Control-Gradle_main" target="1.8" />
+      <module name="Advanced-Version_Control-Gradle_test" target="1.8" />
+      <module name="Advanced-Version_Control-Introduction_to_Git_main" target="1.8" />
+      <module name="Advanced-Version_Control-Introduction_to_Git_test" target="1.8" />
+      <module name="Advanced-Version_Control-Other_Systems_main" target="1.8" />
+      <module name="Advanced-Version_Control-Other_Systems_test" target="1.8" />
+      <module name="Advanced-Version_Control-Some_Cool_Git_main" target="1.8" />
+      <module name="Advanced-Version_Control-Some_Cool_Git_test" target="1.8" />
+      <module name="Advanced-Version_Control-The_Practical_Git_main" target="1.8" />
+      <module name="Advanced-Version_Control-The_Practical_Git_test" target="1.8" />
       <module name="Beginner-Basic_Variable_Types-The_Keyword_Types_main" target="1.8" />
       <module name="Beginner-Basic_Variable_Types-The_Keyword_Types_test" target="1.8" />
       <module name="Beginner-Basic_Variable_Types-The_Not-Keyword-Types-But-Still-Important_Types_main" target="1.8" />
