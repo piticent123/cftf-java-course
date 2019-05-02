@@ -64,13 +64,13 @@ project(':util') {
     }
 }
 
-configure(subprojects.findAll {it.name != 'util'}) {
-  dependencies {
-    compile project(':util').sourceSets.main.output
-    testCompile project(':util').sourceSets.test.output
-  }
+configure(subprojects.findAll { it.name != 'util' }) {
+    dependencies {
+        compile project(':util').sourceSets.main.output
+        testCompile project(':util').sourceSets.test.output
+    }
 }
 
 task wrapper(type: Wrapper) {
-  gradleVersion = '4.10.3'
+    gradleVersion = '4.10.3'
 }
