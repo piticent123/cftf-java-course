@@ -65,7 +65,7 @@
                           <EduTask>
                             <option name="customPresentableName" />
                             <option name="descriptionFormat" value="HTML" />
-                            <option name="descriptionText" value="&lt;html&gt;&#10;Write your task text here.&#10;&lt;div class=&quot;hint&quot;&gt;&#10;  Hints can be added anywhere in task text: type &quot;hint&quot; and press Tab.&#10;&lt;/div&gt;&#10;&lt;/html&gt;" />
+                            <option name="descriptionText" value="&lt;html&gt;&#10;&#9;&lt;p&gt;The first program any programmer makes in any language is &quot;Hello, world&quot;.&#10;&#9;It displays the phrase &quot;Hello, world&quot; on the screen. I've written&#10;&#9;&#9;one up in Java for you. Try to run it!&lt;/p&gt;&#10;&#9;&lt;p&gt;There are a lot of challenges to a &quot;Hello, world&quot; program that&#10;&#9;aren't really applicable when developing in an IDE, but it still tells&#10;&#9;you that Java is correctly installed on your computer, which is important!&lt;/p&gt;&#10;&lt;/html&gt;" />
                             <option name="feedbackLink">
                               <FeedbackLink>
                                 <option name="link" />
@@ -101,7 +101,7 @@
                                       <option name="answerPlaceholders">
                                         <list />
                                       </option>
-                                      <option name="highlightErrors" value="false" />
+                                      <option name="highlightErrors" value="true" />
                                       <option name="name" value="test/Tests.java" />
                                       <option name="text" value="import org.junit.Assert;&#10;import org.junit.Test;&#10;&#10;public class Tests {&#10;  @Test&#10;  public void testSolution() {&#10;    // put your test here&#10;    Assert.fail(&quot;Tests not implemented for the task&quot;);&#10;  }&#10;}" />
                                       <option name="trackChanges" value="true" />
@@ -117,7 +117,7 @@
                           <EduTask>
                             <option name="customPresentableName" />
                             <option name="descriptionFormat" value="HTML" />
-                            <option name="descriptionText" value="&lt;html&gt;&#10;Write your task text here.&#10;&lt;div class=&quot;hint&quot;&gt;&#10;  Hints can be added anywhere in task text: type &quot;hint&quot; and press Tab.&#10;&lt;/div&gt;&#10;&lt;/html&gt;" />
+                            <option name="descriptionText" value="&lt;html&gt;&#10;&#9;&lt;p&gt;Sometimes, you'll want to use code you didn't write. There are&#10;&#9;a lot of reasons you might want to do this. Usually it's because&#10;&#9;you're trying to do something hard, and someone has already solved&#10;&#9;the problem for you&lt;/p&gt;&#10;&#9;&lt;p&gt;Of course, not all code is good, so you should make sure the source&#10;&#9;is credible, but that's beyond the scope of this task.&lt;/p&gt;&#10;&#9;&lt;p&gt;To use someone else's code, you just have to &lt;code&gt;import&lt;/code&gt; it&lt;/p&gt;&#10;&#9;&lt;p&gt;An IDE like IntelliJ IDEA often automatically inserts an import statement,&#10;&#9;but you should still understand how to do it by hand.&lt;/p&gt;&#10;&lt;/html&gt;" />
                             <option name="feedbackLink">
                               <FeedbackLink>
                                 <option name="link" />
@@ -136,9 +136,27 @@
                                   <value>
                                     <TaskFile>
                                       <option name="answerPlaceholders">
-                                        <list />
+                                        <list>
+                                          <AnswerPlaceholder>
+                                            <option name="hints">
+                                              <list />
+                                            </option>
+                                            <option name="index" value="0" />
+                                            <option name="initialState" />
+                                            <option name="initializedFromDependency" value="false" />
+                                            <option name="length" value="19" />
+                                            <option name="offset" value="577" />
+                                            <option name="placeholderDependency" />
+                                            <option name="placeholderText" value="// import statement" />
+                                            <option name="possibleAnswer" value="import java.util.Random;" />
+                                            <option name="selected" value="false" />
+                                            <option name="status" value="Unchecked" />
+                                            <option name="studentAnswer" />
+                                            <option name="useLength" value="false" />
+                                          </AnswerPlaceholder>
+                                        </list>
                                       </option>
-                                      <option name="highlightErrors" value="false" />
+                                      <option name="highlightErrors" value="true" />
                                       <option name="name" value="src/Task.java" />
                                       <option name="text" value="public class Task {&#10;  //put your task here&#10;}" />
                                       <option name="trackChanges" value="true" />
@@ -153,7 +171,7 @@
                                       <option name="answerPlaceholders">
                                         <list />
                                       </option>
-                                      <option name="highlightErrors" value="false" />
+                                      <option name="highlightErrors" value="true" />
                                       <option name="name" value="test/Tests.java" />
                                       <option name="text" value="import org.junit.Assert;&#10;import org.junit.Test;&#10;&#10;public class Tests {&#10;  @Test&#10;  public void testSolution() {&#10;    // put your test here&#10;    Assert.fail(&quot;Tests not implemented for the task&quot;);&#10;  }&#10;}" />
                                       <option name="trackChanges" value="true" />
@@ -182,7 +200,7 @@
                           <EduTask>
                             <option name="customPresentableName" />
                             <option name="descriptionFormat" value="HTML" />
-                            <option name="descriptionText" value="&lt;html&gt;&#10;Write your task text here.&#10;&lt;div class=&quot;hint&quot;&gt;&#10;  Hints can be added anywhere in task text: type &quot;hint&quot; and press Tab.&#10;&lt;/div&gt;&#10;&lt;/html&gt;" />
+                            <option name="descriptionText" value="&lt;html&gt;&#10;&#9;Write your task text here.&#10;&#9;&lt;div class=&quot;hint&quot;&gt;&#10;&#9;&#9;Hints can be added anywhere in task text: type &quot;hint&quot; and press Tab.&#10;&#9;&lt;/div&gt;&#10;&lt;/html&gt;" />
                             <option name="feedbackLink">
                               <FeedbackLink>
                                 <option name="link" />
@@ -234,7 +252,7 @@
                           <EduTask>
                             <option name="customPresentableName" />
                             <option name="descriptionFormat" value="HTML" />
-                            <option name="descriptionText" value="&lt;html&gt;&#10;Write your task text here.&#10;&lt;div class=&quot;hint&quot;&gt;&#10;  Hints can be added anywhere in task text: type &quot;hint&quot; and press Tab.&#10;&lt;/div&gt;&#10;&lt;/html&gt;" />
+                            <option name="descriptionText" value="&lt;html&gt;&#10;&#9;Write your task text here.&#10;&#9;&lt;div class=&quot;hint&quot;&gt;&#10;&#9;&#9;Hints can be added anywhere in task text: type &quot;hint&quot; and press Tab.&#10;&#9;&lt;/div&gt;&#10;&lt;/html&gt;" />
                             <option name="feedbackLink">
                               <FeedbackLink>
                                 <option name="link" />
@@ -286,7 +304,7 @@
                           <EduTask>
                             <option name="customPresentableName" />
                             <option name="descriptionFormat" value="HTML" />
-                            <option name="descriptionText" value="&lt;html&gt;&#10;Write your task text here.&#10;&lt;div class=&quot;hint&quot;&gt;&#10;  Hints can be added anywhere in task text: type &quot;hint&quot; and press Tab.&#10;&lt;/div&gt;&#10;&lt;/html&gt;" />
+                            <option name="descriptionText" value="&lt;html&gt;&#10;&#9;Write your task text here.&#10;&#9;&lt;div class=&quot;hint&quot;&gt;&#10;&#9;&#9;Hints can be added anywhere in task text: type &quot;hint&quot; and press Tab.&#10;&#9;&lt;/div&gt;&#10;&lt;/html&gt;" />
                             <option name="feedbackLink">
                               <FeedbackLink>
                                 <option name="link" />
@@ -338,7 +356,7 @@
                           <EduTask>
                             <option name="customPresentableName" />
                             <option name="descriptionFormat" value="HTML" />
-                            <option name="descriptionText" value="&lt;html&gt;&#10;Write your task text here.&#10;&lt;div class=&quot;hint&quot;&gt;&#10;  Hints can be added anywhere in task text: type &quot;hint&quot; and press Tab.&#10;&lt;/div&gt;&#10;&lt;/html&gt;" />
+                            <option name="descriptionText" value="&lt;html&gt;&#10;&#9;Write your task text here.&#10;&#9;&lt;div class=&quot;hint&quot;&gt;&#10;&#9;&#9;Hints can be added anywhere in task text: type &quot;hint&quot; and press Tab.&#10;&#9;&lt;/div&gt;&#10;&lt;/html&gt;" />
                             <option name="feedbackLink">
                               <FeedbackLink>
                                 <option name="link" />
@@ -403,7 +421,7 @@
                           <EduTask>
                             <option name="customPresentableName" />
                             <option name="descriptionFormat" value="HTML" />
-                            <option name="descriptionText" value="&lt;html&gt;&#10;Write your task text here.&#10;&lt;div class=&quot;hint&quot;&gt;&#10;  Hints can be added anywhere in task text: type &quot;hint&quot; and press Tab.&#10;&lt;/div&gt;&#10;&lt;/html&gt;" />
+                            <option name="descriptionText" value="&lt;html&gt;&#10;&#9;Write your task text here.&#10;&#9;&lt;div class=&quot;hint&quot;&gt;&#10;&#9;&#9;Hints can be added anywhere in task text: type &quot;hint&quot; and press Tab.&#10;&#9;&lt;/div&gt;&#10;&lt;/html&gt;" />
                             <option name="feedbackLink">
                               <FeedbackLink>
                                 <option name="link" />
@@ -455,7 +473,7 @@
                           <EduTask>
                             <option name="customPresentableName" />
                             <option name="descriptionFormat" value="HTML" />
-                            <option name="descriptionText" value="&lt;html&gt;&#10;Write your task text here.&#10;&lt;div class=&quot;hint&quot;&gt;&#10;  Hints can be added anywhere in task text: type &quot;hint&quot; and press Tab.&#10;&lt;/div&gt;&#10;&lt;/html&gt;" />
+                            <option name="descriptionText" value="&lt;html&gt;&#10;&#9;Write your task text here.&#10;&#9;&lt;div class=&quot;hint&quot;&gt;&#10;&#9;&#9;Hints can be added anywhere in task text: type &quot;hint&quot; and press Tab.&#10;&#9;&lt;/div&gt;&#10;&lt;/html&gt;" />
                             <option name="feedbackLink">
                               <FeedbackLink>
                                 <option name="link" />
@@ -532,7 +550,7 @@
                           <EduTask>
                             <option name="customPresentableName" />
                             <option name="descriptionFormat" value="HTML" />
-                            <option name="descriptionText" value="&lt;html&gt;&#10;Write your task text here.&#10;&lt;div class=&quot;hint&quot;&gt;&#10;  Hints can be added anywhere in task text: type &quot;hint&quot; and press Tab.&#10;&lt;/div&gt;&#10;&lt;/html&gt;" />
+                            <option name="descriptionText" value="&lt;html&gt;&#10;&#9;Write your task text here.&#10;&#9;&lt;div class=&quot;hint&quot;&gt;&#10;&#9;&#9;Hints can be added anywhere in task text: type &quot;hint&quot; and press Tab.&#10;&#9;&lt;/div&gt;&#10;&lt;/html&gt;" />
                             <option name="feedbackLink">
                               <FeedbackLink>
                                 <option name="link" />
@@ -584,7 +602,7 @@
                           <EduTask>
                             <option name="customPresentableName" />
                             <option name="descriptionFormat" value="HTML" />
-                            <option name="descriptionText" value="&lt;html&gt;&#10;Write your task text here.&#10;&lt;div class=&quot;hint&quot;&gt;&#10;  Hints can be added anywhere in task text: type &quot;hint&quot; and press Tab.&#10;&lt;/div&gt;&#10;&lt;/html&gt;" />
+                            <option name="descriptionText" value="&lt;html&gt;&#10;&#9;Write your task text here.&#10;&#9;&lt;div class=&quot;hint&quot;&gt;&#10;&#9;&#9;Hints can be added anywhere in task text: type &quot;hint&quot; and press Tab.&#10;&#9;&lt;/div&gt;&#10;&lt;/html&gt;" />
                             <option name="feedbackLink">
                               <FeedbackLink>
                                 <option name="link" />
@@ -649,7 +667,7 @@
                           <EduTask>
                             <option name="customPresentableName" />
                             <option name="descriptionFormat" value="HTML" />
-                            <option name="descriptionText" value="&lt;html&gt;&#10;Write your task text here.&#10;&lt;div class=&quot;hint&quot;&gt;&#10;  Hints can be added anywhere in task text: type &quot;hint&quot; and press Tab.&#10;&lt;/div&gt;&#10;&lt;/html&gt;" />
+                            <option name="descriptionText" value="&lt;html&gt;&#10;&#9;Write your task text here.&#10;&#9;&lt;div class=&quot;hint&quot;&gt;&#10;&#9;&#9;Hints can be added anywhere in task text: type &quot;hint&quot; and press Tab.&#10;&#9;&lt;/div&gt;&#10;&lt;/html&gt;" />
                             <option name="feedbackLink">
                               <FeedbackLink>
                                 <option name="link" />
@@ -701,7 +719,7 @@
                           <EduTask>
                             <option name="customPresentableName" />
                             <option name="descriptionFormat" value="HTML" />
-                            <option name="descriptionText" value="&lt;html&gt;&#10;Write your task text here.&#10;&lt;div class=&quot;hint&quot;&gt;&#10;  Hints can be added anywhere in task text: type &quot;hint&quot; and press Tab.&#10;&lt;/div&gt;&#10;&lt;/html&gt;" />
+                            <option name="descriptionText" value="&lt;html&gt;&#10;&#9;Write your task text here.&#10;&#9;&lt;div class=&quot;hint&quot;&gt;&#10;&#9;&#9;Hints can be added anywhere in task text: type &quot;hint&quot; and press Tab.&#10;&#9;&lt;/div&gt;&#10;&lt;/html&gt;" />
                             <option name="feedbackLink">
                               <FeedbackLink>
                                 <option name="link" />
@@ -753,7 +771,7 @@
                           <EduTask>
                             <option name="customPresentableName" />
                             <option name="descriptionFormat" value="HTML" />
-                            <option name="descriptionText" value="&lt;html&gt;&#10;Write your task text here.&#10;&lt;div class=&quot;hint&quot;&gt;&#10;  Hints can be added anywhere in task text: type &quot;hint&quot; and press Tab.&#10;&lt;/div&gt;&#10;&lt;/html&gt;" />
+                            <option name="descriptionText" value="&lt;html&gt;&#10;&#9;Write your task text here.&#10;&#9;&lt;div class=&quot;hint&quot;&gt;&#10;&#9;&#9;Hints can be added anywhere in task text: type &quot;hint&quot; and press Tab.&#10;&#9;&lt;/div&gt;&#10;&lt;/html&gt;" />
                             <option name="feedbackLink">
                               <FeedbackLink>
                                 <option name="link" />
@@ -818,7 +836,7 @@
                           <EduTask>
                             <option name="customPresentableName" />
                             <option name="descriptionFormat" value="HTML" />
-                            <option name="descriptionText" value="&lt;html&gt;&#10;Write your task text here.&#10;&lt;div class=&quot;hint&quot;&gt;&#10;  Hints can be added anywhere in task text: type &quot;hint&quot; and press Tab.&#10;&lt;/div&gt;&#10;&lt;/html&gt;" />
+                            <option name="descriptionText" value="&lt;html&gt;&#10;&#9;Write your task text here.&#10;&#9;&lt;div class=&quot;hint&quot;&gt;&#10;&#9;&#9;Hints can be added anywhere in task text: type &quot;hint&quot; and press Tab.&#10;&#9;&lt;/div&gt;&#10;&lt;/html&gt;" />
                             <option name="feedbackLink">
                               <FeedbackLink>
                                 <option name="link" />
@@ -870,7 +888,7 @@
                           <EduTask>
                             <option name="customPresentableName" />
                             <option name="descriptionFormat" value="HTML" />
-                            <option name="descriptionText" value="&lt;html&gt;&#10;Write your task text here.&#10;&lt;div class=&quot;hint&quot;&gt;&#10;  Hints can be added anywhere in task text: type &quot;hint&quot; and press Tab.&#10;&lt;/div&gt;&#10;&lt;/html&gt;" />
+                            <option name="descriptionText" value="&lt;html&gt;&#10;&#9;Write your task text here.&#10;&#9;&lt;div class=&quot;hint&quot;&gt;&#10;&#9;&#9;Hints can be added anywhere in task text: type &quot;hint&quot; and press Tab.&#10;&#9;&lt;/div&gt;&#10;&lt;/html&gt;" />
                             <option name="feedbackLink">
                               <FeedbackLink>
                                 <option name="link" />
@@ -922,7 +940,7 @@
                           <EduTask>
                             <option name="customPresentableName" />
                             <option name="descriptionFormat" value="HTML" />
-                            <option name="descriptionText" value="&lt;html&gt;&#10;Write your task text here.&#10;&lt;div class=&quot;hint&quot;&gt;&#10;  Hints can be added anywhere in task text: type &quot;hint&quot; and press Tab.&#10;&lt;/div&gt;&#10;&lt;/html&gt;" />
+                            <option name="descriptionText" value="&lt;html&gt;&#10;&#9;Write your task text here.&#10;&#9;&lt;div class=&quot;hint&quot;&gt;&#10;&#9;&#9;Hints can be added anywhere in task text: type &quot;hint&quot; and press Tab.&#10;&#9;&lt;/div&gt;&#10;&lt;/html&gt;" />
                             <option name="feedbackLink">
                               <FeedbackLink>
                                 <option name="link" />
@@ -1001,7 +1019,7 @@
                           <EduTask>
                             <option name="customPresentableName" />
                             <option name="descriptionFormat" value="HTML" />
-                            <option name="descriptionText" value="&lt;html&gt;&#10;Write your task text here.&#10;&lt;div class=&quot;hint&quot;&gt;&#10;  Hints can be added anywhere in task text: type &quot;hint&quot; and press Tab.&#10;&lt;/div&gt;&#10;&lt;/html&gt;" />
+                            <option name="descriptionText" value="&lt;html&gt;&#10;&#9;Write your task text here.&#10;&#9;&lt;div class=&quot;hint&quot;&gt;&#10;&#9;&#9;Hints can be added anywhere in task text: type &quot;hint&quot; and press Tab.&#10;&#9;&lt;/div&gt;&#10;&lt;/html&gt;" />
                             <option name="feedbackLink">
                               <FeedbackLink>
                                 <option name="link" />
@@ -1053,7 +1071,7 @@
                           <EduTask>
                             <option name="customPresentableName" />
                             <option name="descriptionFormat" value="HTML" />
-                            <option name="descriptionText" value="&lt;html&gt;&#10;Write your task text here.&#10;&lt;div class=&quot;hint&quot;&gt;&#10;  Hints can be added anywhere in task text: type &quot;hint&quot; and press Tab.&#10;&lt;/div&gt;&#10;&lt;/html&gt;" />
+                            <option name="descriptionText" value="&lt;html&gt;&#10;&#9;Write your task text here.&#10;&#9;&lt;div class=&quot;hint&quot;&gt;&#10;&#9;&#9;Hints can be added anywhere in task text: type &quot;hint&quot; and press Tab.&#10;&#9;&lt;/div&gt;&#10;&lt;/html&gt;" />
                             <option name="feedbackLink">
                               <FeedbackLink>
                                 <option name="link" />
@@ -1105,7 +1123,7 @@
                           <EduTask>
                             <option name="customPresentableName" />
                             <option name="descriptionFormat" value="HTML" />
-                            <option name="descriptionText" value="&lt;html&gt;&#10;Write your task text here.&#10;&lt;div class=&quot;hint&quot;&gt;&#10;  Hints can be added anywhere in task text: type &quot;hint&quot; and press Tab.&#10;&lt;/div&gt;&#10;&lt;/html&gt;" />
+                            <option name="descriptionText" value="&lt;html&gt;&#10;&#9;Write your task text here.&#10;&#9;&lt;div class=&quot;hint&quot;&gt;&#10;&#9;&#9;Hints can be added anywhere in task text: type &quot;hint&quot; and press Tab.&#10;&#9;&lt;/div&gt;&#10;&lt;/html&gt;" />
                             <option name="feedbackLink">
                               <FeedbackLink>
                                 <option name="link" />
@@ -1170,7 +1188,7 @@
                           <EduTask>
                             <option name="customPresentableName" />
                             <option name="descriptionFormat" value="HTML" />
-                            <option name="descriptionText" value="&lt;html&gt;&#10;Write your task text here.&#10;&lt;div class=&quot;hint&quot;&gt;&#10;  Hints can be added anywhere in task text: type &quot;hint&quot; and press Tab.&#10;&lt;/div&gt;&#10;&lt;/html&gt;" />
+                            <option name="descriptionText" value="&lt;html&gt;&#10;&#9;Write your task text here.&#10;&#9;&lt;div class=&quot;hint&quot;&gt;&#10;&#9;&#9;Hints can be added anywhere in task text: type &quot;hint&quot; and press Tab.&#10;&#9;&lt;/div&gt;&#10;&lt;/html&gt;" />
                             <option name="feedbackLink">
                               <FeedbackLink>
                                 <option name="link" />
@@ -1222,7 +1240,7 @@
                           <EduTask>
                             <option name="customPresentableName" />
                             <option name="descriptionFormat" value="HTML" />
-                            <option name="descriptionText" value="&lt;html&gt;&#10;Write your task text here.&#10;&lt;div class=&quot;hint&quot;&gt;&#10;  Hints can be added anywhere in task text: type &quot;hint&quot; and press Tab.&#10;&lt;/div&gt;&#10;&lt;/html&gt;" />
+                            <option name="descriptionText" value="&lt;html&gt;&#10;&#9;Write your task text here.&#10;&#9;&lt;div class=&quot;hint&quot;&gt;&#10;&#9;&#9;Hints can be added anywhere in task text: type &quot;hint&quot; and press Tab.&#10;&#9;&lt;/div&gt;&#10;&lt;/html&gt;" />
                             <option name="feedbackLink">
                               <FeedbackLink>
                                 <option name="link" />
@@ -1274,7 +1292,7 @@
                           <EduTask>
                             <option name="customPresentableName" />
                             <option name="descriptionFormat" value="HTML" />
-                            <option name="descriptionText" value="&lt;html&gt;&#10;Write your task text here.&#10;&lt;div class=&quot;hint&quot;&gt;&#10;  Hints can be added anywhere in task text: type &quot;hint&quot; and press Tab.&#10;&lt;/div&gt;&#10;&lt;/html&gt;" />
+                            <option name="descriptionText" value="&lt;html&gt;&#10;&#9;Write your task text here.&#10;&#9;&lt;div class=&quot;hint&quot;&gt;&#10;&#9;&#9;Hints can be added anywhere in task text: type &quot;hint&quot; and press Tab.&#10;&#9;&lt;/div&gt;&#10;&lt;/html&gt;" />
                             <option name="feedbackLink">
                               <FeedbackLink>
                                 <option name="link" />
@@ -1339,7 +1357,7 @@
                           <EduTask>
                             <option name="customPresentableName" />
                             <option name="descriptionFormat" value="HTML" />
-                            <option name="descriptionText" value="&lt;html&gt;&#10;Write your task text here.&#10;&lt;div class=&quot;hint&quot;&gt;&#10;  Hints can be added anywhere in task text: type &quot;hint&quot; and press Tab.&#10;&lt;/div&gt;&#10;&lt;/html&gt;" />
+                            <option name="descriptionText" value="&lt;html&gt;&#10;&#9;Write your task text here.&#10;&#9;&lt;div class=&quot;hint&quot;&gt;&#10;&#9;&#9;Hints can be added anywhere in task text: type &quot;hint&quot; and press Tab.&#10;&#9;&lt;/div&gt;&#10;&lt;/html&gt;" />
                             <option name="feedbackLink">
                               <FeedbackLink>
                                 <option name="link" />
@@ -1404,7 +1422,7 @@
                           <EduTask>
                             <option name="customPresentableName" />
                             <option name="descriptionFormat" value="HTML" />
-                            <option name="descriptionText" value="&lt;html&gt;&#10;Write your task text here.&#10;&lt;div class=&quot;hint&quot;&gt;&#10;  Hints can be added anywhere in task text: type &quot;hint&quot; and press Tab.&#10;&lt;/div&gt;&#10;&lt;/html&gt;" />
+                            <option name="descriptionText" value="&lt;html&gt;&#10;&#9;Write your task text here.&#10;&#9;&lt;div class=&quot;hint&quot;&gt;&#10;&#9;&#9;Hints can be added anywhere in task text: type &quot;hint&quot; and press Tab.&#10;&#9;&lt;/div&gt;&#10;&lt;/html&gt;" />
                             <option name="feedbackLink">
                               <FeedbackLink>
                                 <option name="link" />
@@ -1456,7 +1474,7 @@
                           <EduTask>
                             <option name="customPresentableName" />
                             <option name="descriptionFormat" value="HTML" />
-                            <option name="descriptionText" value="&lt;html&gt;&#10;Write your task text here.&#10;&lt;div class=&quot;hint&quot;&gt;&#10;  Hints can be added anywhere in task text: type &quot;hint&quot; and press Tab.&#10;&lt;/div&gt;&#10;&lt;/html&gt;" />
+                            <option name="descriptionText" value="&lt;html&gt;&#10;&#9;Write your task text here.&#10;&#9;&lt;div class=&quot;hint&quot;&gt;&#10;&#9;&#9;Hints can be added anywhere in task text: type &quot;hint&quot; and press Tab.&#10;&#9;&lt;/div&gt;&#10;&lt;/html&gt;" />
                             <option name="feedbackLink">
                               <FeedbackLink>
                                 <option name="link" />
@@ -1508,7 +1526,7 @@
                           <EduTask>
                             <option name="customPresentableName" />
                             <option name="descriptionFormat" value="HTML" />
-                            <option name="descriptionText" value="&lt;html&gt;&#10;Write your task text here.&#10;&lt;div class=&quot;hint&quot;&gt;&#10;  Hints can be added anywhere in task text: type &quot;hint&quot; and press Tab.&#10;&lt;/div&gt;&#10;&lt;/html&gt;" />
+                            <option name="descriptionText" value="&lt;html&gt;&#10;&#9;Write your task text here.&#10;&#9;&lt;div class=&quot;hint&quot;&gt;&#10;&#9;&#9;Hints can be added anywhere in task text: type &quot;hint&quot; and press Tab.&#10;&#9;&lt;/div&gt;&#10;&lt;/html&gt;" />
                             <option name="feedbackLink">
                               <FeedbackLink>
                                 <option name="link" />
@@ -1587,7 +1605,7 @@
                           <EduTask>
                             <option name="customPresentableName" />
                             <option name="descriptionFormat" value="HTML" />
-                            <option name="descriptionText" value="&lt;html&gt;&#10;Write your task text here.&#10;&lt;div class=&quot;hint&quot;&gt;&#10;  Hints can be added anywhere in task text: type &quot;hint&quot; and press Tab.&#10;&lt;/div&gt;&#10;&lt;/html&gt;" />
+                            <option name="descriptionText" value="&lt;html&gt;&#10;&#9;Write your task text here.&#10;&#9;&lt;div class=&quot;hint&quot;&gt;&#10;&#9;&#9;Hints can be added anywhere in task text: type &quot;hint&quot; and press Tab.&#10;&#9;&lt;/div&gt;&#10;&lt;/html&gt;" />
                             <option name="feedbackLink">
                               <FeedbackLink>
                                 <option name="link" />
@@ -1639,7 +1657,7 @@
                           <EduTask>
                             <option name="customPresentableName" />
                             <option name="descriptionFormat" value="HTML" />
-                            <option name="descriptionText" value="&lt;html&gt;&#10;Write your task text here.&#10;&lt;div class=&quot;hint&quot;&gt;&#10;  Hints can be added anywhere in task text: type &quot;hint&quot; and press Tab.&#10;&lt;/div&gt;&#10;&lt;/html&gt;" />
+                            <option name="descriptionText" value="&lt;html&gt;&#10;&#9;Write your task text here.&#10;&#9;&lt;div class=&quot;hint&quot;&gt;&#10;&#9;&#9;Hints can be added anywhere in task text: type &quot;hint&quot; and press Tab.&#10;&#9;&lt;/div&gt;&#10;&lt;/html&gt;" />
                             <option name="feedbackLink">
                               <FeedbackLink>
                                 <option name="link" />
@@ -1691,7 +1709,7 @@
                           <EduTask>
                             <option name="customPresentableName" />
                             <option name="descriptionFormat" value="HTML" />
-                            <option name="descriptionText" value="&lt;html&gt;&#10;Write your task text here.&#10;&lt;div class=&quot;hint&quot;&gt;&#10;  Hints can be added anywhere in task text: type &quot;hint&quot; and press Tab.&#10;&lt;/div&gt;&#10;&lt;/html&gt;" />
+                            <option name="descriptionText" value="&lt;html&gt;&#10;&#9;Write your task text here.&#10;&#9;&lt;div class=&quot;hint&quot;&gt;&#10;&#9;&#9;Hints can be added anywhere in task text: type &quot;hint&quot; and press Tab.&#10;&#9;&lt;/div&gt;&#10;&lt;/html&gt;" />
                             <option name="feedbackLink">
                               <FeedbackLink>
                                 <option name="link" />
@@ -1743,7 +1761,7 @@
                           <EduTask>
                             <option name="customPresentableName" />
                             <option name="descriptionFormat" value="HTML" />
-                            <option name="descriptionText" value="&lt;html&gt;&#10;Write your task text here.&#10;&lt;div class=&quot;hint&quot;&gt;&#10;  Hints can be added anywhere in task text: type &quot;hint&quot; and press Tab.&#10;&lt;/div&gt;&#10;&lt;/html&gt;" />
+                            <option name="descriptionText" value="&lt;html&gt;&#10;&#9;Write your task text here.&#10;&#9;&lt;div class=&quot;hint&quot;&gt;&#10;&#9;&#9;Hints can be added anywhere in task text: type &quot;hint&quot; and press Tab.&#10;&#9;&lt;/div&gt;&#10;&lt;/html&gt;" />
                             <option name="feedbackLink">
                               <FeedbackLink>
                                 <option name="link" />
@@ -1808,7 +1826,7 @@
                           <EduTask>
                             <option name="customPresentableName" />
                             <option name="descriptionFormat" value="HTML" />
-                            <option name="descriptionText" value="&lt;html&gt;&#10;Write your task text here.&#10;&lt;div class=&quot;hint&quot;&gt;&#10;  Hints can be added anywhere in task text: type &quot;hint&quot; and press Tab.&#10;&lt;/div&gt;&#10;&lt;/html&gt;" />
+                            <option name="descriptionText" value="&lt;html&gt;&#10;&#9;Write your task text here.&#10;&#9;&lt;div class=&quot;hint&quot;&gt;&#10;&#9;&#9;Hints can be added anywhere in task text: type &quot;hint&quot; and press Tab.&#10;&#9;&lt;/div&gt;&#10;&lt;/html&gt;" />
                             <option name="feedbackLink">
                               <FeedbackLink>
                                 <option name="link" />
@@ -1860,7 +1878,7 @@
                           <EduTask>
                             <option name="customPresentableName" />
                             <option name="descriptionFormat" value="HTML" />
-                            <option name="descriptionText" value="&lt;html&gt;&#10;Write your task text here.&#10;&lt;div class=&quot;hint&quot;&gt;&#10;  Hints can be added anywhere in task text: type &quot;hint&quot; and press Tab.&#10;&lt;/div&gt;&#10;&lt;/html&gt;" />
+                            <option name="descriptionText" value="&lt;html&gt;&#10;&#9;Write your task text here.&#10;&#9;&lt;div class=&quot;hint&quot;&gt;&#10;&#9;&#9;Hints can be added anywhere in task text: type &quot;hint&quot; and press Tab.&#10;&#9;&lt;/div&gt;&#10;&lt;/html&gt;" />
                             <option name="feedbackLink">
                               <FeedbackLink>
                                 <option name="link" />
@@ -1925,7 +1943,7 @@
                           <EduTask>
                             <option name="customPresentableName" />
                             <option name="descriptionFormat" value="HTML" />
-                            <option name="descriptionText" value="&lt;html&gt;&#10;Write your task text here.&#10;&lt;div class=&quot;hint&quot;&gt;&#10;  Hints can be added anywhere in task text: type &quot;hint&quot; and press Tab.&#10;&lt;/div&gt;&#10;&lt;/html&gt;" />
+                            <option name="descriptionText" value="&lt;html&gt;&#10;&#9;Write your task text here.&#10;&#9;&lt;div class=&quot;hint&quot;&gt;&#10;&#9;&#9;Hints can be added anywhere in task text: type &quot;hint&quot; and press Tab.&#10;&#9;&lt;/div&gt;&#10;&lt;/html&gt;" />
                             <option name="feedbackLink">
                               <FeedbackLink>
                                 <option name="link" />
@@ -1977,7 +1995,7 @@
                           <EduTask>
                             <option name="customPresentableName" />
                             <option name="descriptionFormat" value="HTML" />
-                            <option name="descriptionText" value="&lt;html&gt;&#10;Write your task text here.&#10;&lt;div class=&quot;hint&quot;&gt;&#10;  Hints can be added anywhere in task text: type &quot;hint&quot; and press Tab.&#10;&lt;/div&gt;&#10;&lt;/html&gt;" />
+                            <option name="descriptionText" value="&lt;html&gt;&#10;&#9;Write your task text here.&#10;&#9;&lt;div class=&quot;hint&quot;&gt;&#10;&#9;&#9;Hints can be added anywhere in task text: type &quot;hint&quot; and press Tab.&#10;&#9;&lt;/div&gt;&#10;&lt;/html&gt;" />
                             <option name="feedbackLink">
                               <FeedbackLink>
                                 <option name="link" />
@@ -2029,7 +2047,7 @@
                           <EduTask>
                             <option name="customPresentableName" />
                             <option name="descriptionFormat" value="HTML" />
-                            <option name="descriptionText" value="&lt;html&gt;&#10;Write your task text here.&#10;&lt;div class=&quot;hint&quot;&gt;&#10;  Hints can be added anywhere in task text: type &quot;hint&quot; and press Tab.&#10;&lt;/div&gt;&#10;&lt;/html&gt;" />
+                            <option name="descriptionText" value="&lt;html&gt;&#10;&#9;Write your task text here.&#10;&#9;&lt;div class=&quot;hint&quot;&gt;&#10;&#9;&#9;Hints can be added anywhere in task text: type &quot;hint&quot; and press Tab.&#10;&#9;&lt;/div&gt;&#10;&lt;/html&gt;" />
                             <option name="feedbackLink">
                               <FeedbackLink>
                                 <option name="link" />
@@ -2081,7 +2099,7 @@
                           <EduTask>
                             <option name="customPresentableName" />
                             <option name="descriptionFormat" value="HTML" />
-                            <option name="descriptionText" value="&lt;html&gt;&#10;Write your task text here.&#10;&lt;div class=&quot;hint&quot;&gt;&#10;  Hints can be added anywhere in task text: type &quot;hint&quot; and press Tab.&#10;&lt;/div&gt;&#10;&lt;/html&gt;" />
+                            <option name="descriptionText" value="&lt;html&gt;&#10;&#9;Write your task text here.&#10;&#9;&lt;div class=&quot;hint&quot;&gt;&#10;&#9;&#9;Hints can be added anywhere in task text: type &quot;hint&quot; and press Tab.&#10;&#9;&lt;/div&gt;&#10;&lt;/html&gt;" />
                             <option name="feedbackLink">
                               <FeedbackLink>
                                 <option name="link" />
@@ -2133,7 +2151,7 @@
                           <EduTask>
                             <option name="customPresentableName" />
                             <option name="descriptionFormat" value="HTML" />
-                            <option name="descriptionText" value="&lt;html&gt;&#10;Write your task text here.&#10;&lt;div class=&quot;hint&quot;&gt;&#10;  Hints can be added anywhere in task text: type &quot;hint&quot; and press Tab.&#10;&lt;/div&gt;&#10;&lt;/html&gt;" />
+                            <option name="descriptionText" value="&lt;html&gt;&#10;&#9;Write your task text here.&#10;&#9;&lt;div class=&quot;hint&quot;&gt;&#10;&#9;&#9;Hints can be added anywhere in task text: type &quot;hint&quot; and press Tab.&#10;&#9;&lt;/div&gt;&#10;&lt;/html&gt;" />
                             <option name="feedbackLink">
                               <FeedbackLink>
                                 <option name="link" />
@@ -2198,7 +2216,7 @@
                           <EduTask>
                             <option name="customPresentableName" />
                             <option name="descriptionFormat" value="HTML" />
-                            <option name="descriptionText" value="&lt;html&gt;&#10;Write your task text here.&#10;&lt;div class=&quot;hint&quot;&gt;&#10;  Hints can be added anywhere in task text: type &quot;hint&quot; and press Tab.&#10;&lt;/div&gt;&#10;&lt;/html&gt;" />
+                            <option name="descriptionText" value="&lt;html&gt;&#10;&#9;Write your task text here.&#10;&#9;&lt;div class=&quot;hint&quot;&gt;&#10;&#9;&#9;Hints can be added anywhere in task text: type &quot;hint&quot; and press Tab.&#10;&#9;&lt;/div&gt;&#10;&lt;/html&gt;" />
                             <option name="feedbackLink">
                               <FeedbackLink>
                                 <option name="link" />
@@ -2250,7 +2268,7 @@
                           <EduTask>
                             <option name="customPresentableName" />
                             <option name="descriptionFormat" value="HTML" />
-                            <option name="descriptionText" value="&lt;html&gt;&#10;Write your task text here.&#10;&lt;div class=&quot;hint&quot;&gt;&#10;  Hints can be added anywhere in task text: type &quot;hint&quot; and press Tab.&#10;&lt;/div&gt;&#10;&lt;/html&gt;" />
+                            <option name="descriptionText" value="&lt;html&gt;&#10;&#9;Write your task text here.&#10;&#9;&lt;div class=&quot;hint&quot;&gt;&#10;&#9;&#9;Hints can be added anywhere in task text: type &quot;hint&quot; and press Tab.&#10;&#9;&lt;/div&gt;&#10;&lt;/html&gt;" />
                             <option name="feedbackLink">
                               <FeedbackLink>
                                 <option name="link" />
@@ -2302,7 +2320,7 @@
                           <EduTask>
                             <option name="customPresentableName" />
                             <option name="descriptionFormat" value="HTML" />
-                            <option name="descriptionText" value="&lt;html&gt;&#10;Write your task text here.&#10;&lt;div class=&quot;hint&quot;&gt;&#10;  Hints can be added anywhere in task text: type &quot;hint&quot; and press Tab.&#10;&lt;/div&gt;&#10;&lt;/html&gt;" />
+                            <option name="descriptionText" value="&lt;html&gt;&#10;&#9;Write your task text here.&#10;&#9;&lt;div class=&quot;hint&quot;&gt;&#10;&#9;&#9;Hints can be added anywhere in task text: type &quot;hint&quot; and press Tab.&#10;&#9;&lt;/div&gt;&#10;&lt;/html&gt;" />
                             <option name="feedbackLink">
                               <FeedbackLink>
                                 <option name="link" />
@@ -2354,7 +2372,7 @@
                           <EduTask>
                             <option name="customPresentableName" />
                             <option name="descriptionFormat" value="HTML" />
-                            <option name="descriptionText" value="&lt;html&gt;&#10;Write your task text here.&#10;&lt;div class=&quot;hint&quot;&gt;&#10;  Hints can be added anywhere in task text: type &quot;hint&quot; and press Tab.&#10;&lt;/div&gt;&#10;&lt;/html&gt;" />
+                            <option name="descriptionText" value="&lt;html&gt;&#10;&#9;Write your task text here.&#10;&#9;&lt;div class=&quot;hint&quot;&gt;&#10;&#9;&#9;Hints can be added anywhere in task text: type &quot;hint&quot; and press Tab.&#10;&#9;&lt;/div&gt;&#10;&lt;/html&gt;" />
                             <option name="feedbackLink">
                               <FeedbackLink>
                                 <option name="link" />
@@ -2419,7 +2437,7 @@
                           <EduTask>
                             <option name="customPresentableName" />
                             <option name="descriptionFormat" value="HTML" />
-                            <option name="descriptionText" value="&lt;html&gt;&#10;Write your task text here.&#10;&lt;div class=&quot;hint&quot;&gt;&#10;  Hints can be added anywhere in task text: type &quot;hint&quot; and press Tab.&#10;&lt;/div&gt;&#10;&lt;/html&gt;" />
+                            <option name="descriptionText" value="&lt;html&gt;&#10;&#9;Write your task text here.&#10;&#9;&lt;div class=&quot;hint&quot;&gt;&#10;&#9;&#9;Hints can be added anywhere in task text: type &quot;hint&quot; and press Tab.&#10;&#9;&lt;/div&gt;&#10;&lt;/html&gt;" />
                             <option name="feedbackLink">
                               <FeedbackLink>
                                 <option name="link" />
@@ -2485,7 +2503,7 @@
                           <EduTask>
                             <option name="customPresentableName" />
                             <option name="descriptionFormat" value="HTML" />
-                            <option name="descriptionText" value="&lt;html&gt;&#10;Write your task text here.&#10;&lt;div class=&quot;hint&quot;&gt;&#10;  Hints can be added anywhere in task text: type &quot;hint&quot; and press Tab.&#10;&lt;/div&gt;&#10;&lt;/html&gt;" />
+                            <option name="descriptionText" value="&lt;html&gt;&#10;&#9;Write your task text here.&#10;&#9;&lt;div class=&quot;hint&quot;&gt;&#10;&#9;&#9;Hints can be added anywhere in task text: type &quot;hint&quot; and press Tab.&#10;&#9;&lt;/div&gt;&#10;&lt;/html&gt;" />
                             <option name="feedbackLink">
                               <FeedbackLink>
                                 <option name="link" />
